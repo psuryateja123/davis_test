@@ -4,7 +4,7 @@
 #### The tests in this framework are written in BDD (behave) pattern using feature file.
 
 #### Folder structure:
-* There is a src folder and it has two folders main and test.
+* There is a [src](https://github.com/psuryateja123/davis_test/tree/master/src) folder and it has [test](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource) folder.
 * Test has a java folder, in java folder there exists a resource folder that has the following
 * [Feature files](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/feature_files)
 * [Page objects](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/page_objects)
