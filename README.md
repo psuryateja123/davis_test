@@ -1,4 +1,4 @@
-# davis_test
+# Davis_test
 # Test guidence 
 
 #### The tests in this framework are written in BDD (behave) pattern using feature file.
@@ -64,5 +64,5 @@
 #### Improvements:
 
 * There is a further room for expanding the framework by integrating BrowserStack to run on multiple browsers. 
-* Integration of Allure report for better visual representation, I have added to other projects in JavaScript and [Python](https://github.com/psuryateja123/python-behave)
-* Integration of framework to CI and adding build notifications to communication channels like - Slack
+* Integration of Allure report for better visual representation, I have added to other projects in [JavaScript](https://github.com/psuryateja123/cypress_meetup_demo) and [Python](https://github.com/psuryateja123/python-behave)
+* Integration of framework to CI and adding build notifications to communication channels like - Slack, did it for my previous projects in [JavaScript](https://github.com/psuryateja123/cypress_meetup_demo) and [Python](https://github.com/psuryateja123/python-behave)
