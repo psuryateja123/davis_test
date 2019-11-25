@@ -1,5 +1,6 @@
 package resource.locators;
 
+// locators that are used in dress selection page
 public class selection_page {
     public static String women = "//*[@id=\"block_top_menu\"]/ul/li[1]/a";
     public static String dress_locator = "product-image-container";

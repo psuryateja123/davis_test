@@ -2,6 +2,7 @@ package resource.locators;
 
 import resource.utils.email_generator;
 
+// locators that are used in registration page
 public class registration {
     public static String signin_button = "login";
     public static String email_address = "email_create";

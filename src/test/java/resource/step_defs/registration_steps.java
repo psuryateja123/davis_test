@@ -10,6 +10,8 @@ import resource.utils.email_generator;
 
 import static resource.utils.RunTest.driver;
 
+// step defs for registation feature file
+
 public class registration_steps {
     @Given("I am on the home page")
     public void iAmOnTheHomePage() {

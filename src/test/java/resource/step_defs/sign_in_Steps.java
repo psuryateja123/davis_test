@@ -5,6 +5,7 @@ import cucumber.api.java.en.When;
 import resource.page_objects.details_page_objects;
 import resource.page_objects.sign_page_objects;
 
+// step defs related to sign in scenario.
 public class sign_in_Steps {
     @Then("I fill the sign in email address")
     public void iFillTheSignInEmailAddress() {

@@ -20,8 +20,9 @@ import org.openqa.selenium.remote.DesiredCapabilities;
         glue = {"resource.step_defs" },
         features = {"resource.feature_files"})
 
-public class RunTest {
 
+// local config, test to run locally
+public class RunTest {
     public static WebDriver driver;
     static boolean ci = false;
     @BeforeClass

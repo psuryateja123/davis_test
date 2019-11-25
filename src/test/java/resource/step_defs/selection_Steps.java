@@ -4,6 +4,7 @@ import cucumber.api.java.en.Then;
 import resource.page_objects.registration;
 import resource.page_objects.selection_page_objects;
 
+// step defs related to selecting a dress
 public class selection_Steps {
     @Then("I select dress with title \"([^\"]*)\"$")
     public void iSelectDressWithTitle(String arg0) {
