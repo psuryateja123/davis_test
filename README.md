@@ -64,5 +64,5 @@
 #### Improvements:
 
 * There is a further room for expanding the framework by integrating BrowserStack to run on multiple browsers. 
-* Integration of Allure report for better visual representation
+* Integration of Allure report for better visual representation, I have added to other projects in JavaScript and [Python](https://github.com/psuryateja123/python-behave)
 * Integration of framework to CI and adding build notifications to communication channels like - Slack
