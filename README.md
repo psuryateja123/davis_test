@@ -60,3 +60,9 @@
 #### Viewing results:
 
 * For viewing the results for the test run, open the [report.js](https://github.com/psuryateja123/davis_test/blob/master/davis/report.js) (open in a browser)
+
+#### Improvements:
+
+* There is a further room for expanding the framework by integrating BrowserStack to run on multiple browsers. 
+* Integration of Allure report for better visual representation
+* Integration of framework to CI and adding build notifications to communication channels like - Slack
