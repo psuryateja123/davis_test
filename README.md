@@ -30,7 +30,7 @@
 * [Login](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/step_defs/sign_in_Steps.java) and [Purchase](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/step_defs/selection_Steps.java)is related to [Login and purchase Feature](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/login_and_purchase.feature)
 
 #### [Utils](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/utils): 
-* In this folder there are two class 
+* In this folder there are two class, they are the supporting class for the project.
 * [Env.java](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/utils/Env.java) has url and the name of the browser, further configurations browserstack configurations can be added.
 * [RunTest.java](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/utils/RunTest.java) has browser driver configurations, cucumber options - location of feature files, location of steps definition files. In this class further browserstack configuration can be added.
 * [Email generator.java](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/utils/email_generator.java) is for generating a random emails with timestamp in it.
