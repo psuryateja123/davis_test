@@ -15,14 +15,14 @@
 #### [Feature files](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/feature_files)
 * In this folder, there are two feature files.
 * [Registration](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/regitration.feature)
-* [Login and Purchase](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/login_and_purchase.feature).feature: In this feature file, I have added some more steps as per the actions in the calculator tool. This includes very detailed steps in feature file like clicking on the next button and selecting the options.
+* [Login and Purchase](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/login_and_purchase.feature).feature: This feature file has all scenarios, that are related to product purchase.
 
 #### [Page objects](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/page_objects)
 * It has four class, 
 * In [details_page_object](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/page_objects/details_page_objects.java), I have used placed the methods that are the page objects that are related to details page.
 * In [Registration](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/page_objects/registration.java), I have placed the methods that are the page objects related to the registration page
-* In [Selection_page_object](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/page_objects/selection_page_objects.java), I have placed the menthods that are the page objects related to the dress selection page.
-* In [sign_page_objects](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/page_objects/sign_page_objects.java), I have placed the menthods that are the page objects related to the sign in page.
+* In [Selection_page_object](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/page_objects/selection_page_objects.java), I have placed the methods that are the page objects related to the dress selection page.
+* In [sign_page_objects](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/page_objects/sign_page_objects.java), I have placed the methods that are the page objects related to the sign in page.
 
 #### [Step definitions](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/step_defs)
 * It has two step definition files
