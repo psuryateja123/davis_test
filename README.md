@@ -14,8 +14,8 @@
 
 #### [Feature files](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/feature_files)
 * In this folder, there are two feature files.
-* [Registration](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/regitration.feature)
-* [Login and Purchase](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/login_and_purchase.feature).feature: This feature file has all scenarios, that are related to product purchase.
+* [Registration](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/regitration.feature): This feature file has all the scenarios related to registration and validatation.
+* [Login and Purchase](https://github.com/psuryateja123/davis_test/blob/master/src/test/java/resource/feature_files/login_and_purchase.feature).feature: This feature file has all the scenarios, that are related to product purchase.
 
 #### [Page objects](https://github.com/psuryateja123/davis_test/tree/master/src/test/java/resource/page_objects)
 * It has four class, 
