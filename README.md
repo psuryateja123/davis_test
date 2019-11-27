@@ -1,4 +1,4 @@
-# Davis_test
+# Davis Test
 # Test guidence 
 
 #### The tests in this framework are written in BDD (behave) pattern using feature file.
